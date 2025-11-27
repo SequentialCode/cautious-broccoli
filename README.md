@@ -2,7 +2,7 @@
 
 ## 👤 About This Repository
 
-Welcome to the **Daily Code Journal** by [Your Full Name or Username: SequentialCode]!
+Welcome to the **Daily Code Journal** by SequentialCode!
 
 This repository serves as a persistent, chronological log of my daily learning, development experiments, and deep dives into specific programming concepts. It is designed to track my progress, solidify understanding, and showcase my commitment to consistent development.
 
