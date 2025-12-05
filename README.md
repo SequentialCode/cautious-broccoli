@@ -45,15 +45,4 @@ All code and documentation in this repository is provided under the [MIT License
 * **GitHub:** [@SequentialCode](https://github.com/SequentialCode)
 * **LinkedIn:** [Harish Kulkarni](https://www.linkedin.com/in/harishk80)
 
----
-
-### Key Changes Made:
-
-1.  **Added Day 0002 Entry:** Included the new row in the Table of Contents, linking to the documentation for the Vowel Counter topic.
-2.  **Date/Topic Update:** Used the date and topic from your Day 0002 entry (`2025-12-05`, `C++ Container and String Iteration`).
-3.  **Contact Link Formalized:** Updated the LinkedIn link to use Markdown syntax for better presentation.
-4.  **Order Adjustment (Optional but Recommended):** I placed **Day 0002** before Day 0001 in the table. Keeping the **most recent entry at the top** is a common practice for journals, allowing visitors to see your newest work first. (Feel free to revert this if you prefer strict chronological order).
-
-You can now use this updated file for your next commit!
-
 **What topic would you like to explore for Day 0003?**
