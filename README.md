@@ -2,7 +2,7 @@
 
 ## 👤 About This Repository
 
-Welcome to the **Daily Code Journal** by [Your Full Name or Username: SequentialCode]!
+Welcome to the **Daily Code Journal** by SequentialCode!
 
 This repository serves as a persistent, chronological log of my daily learning, development experiments, and deep dives into specific programming concepts. It is designed to track my progress, solidify understanding, and showcase my commitment to consistent development.
 
@@ -17,9 +17,6 @@ This section links directly to the detailed documentation for each daily entry. 
 | Day # | Date | Topic | Status |
 | :---: | :--- | :--- | :--- |
 | **0001** | 2024-06-15 | [C++ Static Local Variables](Coding/Day_0001/README.md) | Complete |
-| **0002** | *[Date Tomorrow]* | *[Placeholder for your next topic]* | Planning |
-| **0003** | *[Date Day After]* | *[Placeholder for your third topic]* | Planning |
-| **...** | | | |
 
 > 📌 **To access the code for any entry**, simply click the topic link above and browse the files within the corresponding `Day_####` folder.
 
@@ -45,10 +42,5 @@ All code and documentation in this repository is provided under the [MIT License
 ## 🔗 Contact
 
 * **GitHub:** [@SequentialCode](https://github.com/SequentialCode)
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** [www.linkedin.com/in/harishk80]
 
-*(Remember to update the placeholders like dates, topics, and your personal links!)*
-
----
-
-**Would you like me to generate the simple `LICENSE` file for you, which you mentioned in your Day 0001 entry?**
