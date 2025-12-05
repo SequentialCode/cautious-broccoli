@@ -44,5 +44,3 @@ All code and documentation in this repository is provided under the [MIT License
 
 * **GitHub:** [@SequentialCode](https://github.com/SequentialCode)
 * **LinkedIn:** [Harish Kulkarni](https://www.linkedin.com/in/harishk80)
-
-**What topic would you like to explore for Day 0003?**
