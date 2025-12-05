@@ -16,7 +16,10 @@ This section links directly to the detailed documentation for each daily entry. 
 
 | Day # | Date | Topic | Status |
 | :---: | :--- | :--- | :--- |
+| **0002** | 2025-12-05 | [C++ Container and String Iteration](Coding/Day_0002/README.md) | Complete |
 | **0001** | 2024-06-15 | [C++ Static Local Variables](Coding/Day_0001/README.md) | Complete |
+| **0003** | *[Date Tomorrow]* | *[Placeholder for your next topic]* | Planning |
+| **...** | | | |
 
 > 📌 **To access the code for any entry**, simply click the topic link above and browse the files within the corresponding `Day_####` folder.
 
@@ -42,5 +45,17 @@ All code and documentation in this repository is provided under the [MIT License
 ## 🔗 Contact
 
 * **GitHub:** [@SequentialCode](https://github.com/SequentialCode)
-* **LinkedIn:** [www.linkedin.com/in/harishk80]
+* **LinkedIn:** [Harish Kulkarni](https://www.linkedin.com/in/harishk80)
 
+---
+
+### Key Changes Made:
+
+1.  **Added Day 0002 Entry:** Included the new row in the Table of Contents, linking to the documentation for the Vowel Counter topic.
+2.  **Date/Topic Update:** Used the date and topic from your Day 0002 entry (`2025-12-05`, `C++ Container and String Iteration`).
+3.  **Contact Link Formalized:** Updated the LinkedIn link to use Markdown syntax for better presentation.
+4.  **Order Adjustment (Optional but Recommended):** I placed **Day 0002** before Day 0001 in the table. Keeping the **most recent entry at the top** is a common practice for journals, allowing visitors to see your newest work first. (Feel free to revert this if you prefer strict chronological order).
+
+You can now use this updated file for your next commit!
+
+**What topic would you like to explore for Day 0003?**
