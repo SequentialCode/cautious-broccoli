@@ -18,7 +18,6 @@ This section links directly to the detailed documentation for each daily entry. 
 | :---: | :--- | :--- | :--- |
 | **0002** | 2025-12-05 | [C++ Container and String Iteration](Coding/Day_0002/README.md) | Complete |
 | **0001** | 2024-06-15 | [C++ Static Local Variables](Coding/Day_0001/README.md) | Complete |
-| **0003** | *[Date Tomorrow]* | *[Placeholder for your next topic]* | Planning |
 | **...** | | | |
 
 > 📌 **To access the code for any entry**, simply click the topic link above and browse the files within the corresponding `Day_####` folder.
