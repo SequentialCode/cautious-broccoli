@@ -29,7 +29,7 @@ The core logic uses a long `if` statement to check for both lowercase and upperc
 
 The `main` function correctly initializes and passes an `std::vector<std::string>` to the function, illustrating basic usage of the standard library's dynamic array container.
 
-## 💻 Code Implementation: `VowelCounter.cpp` (or Project Name)
+## 💻 Code Implementation: `VowelCounter.cpp`
 
 ### `countVowels()` Function
 
